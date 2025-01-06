@@ -13,3 +13,11 @@ This project implements a simple Linux-based web server in C using UNIX system p
 ### Compilation
 ```bash
 gcc -o linux_web_server linux_web_server.c -lpthread
+```
+
+### Execution
+```bash
+./linux_web_server
+```
+### Access
+Open a browser and navigate to http://localhost:8080.
